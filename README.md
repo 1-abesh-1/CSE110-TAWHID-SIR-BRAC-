@@ -1,6 +1,4 @@
-Here’s a structured and improved version of your **README.md** file for your Java course:
 
----
 
 # CSE110: Introduction to Java Programming Language  
 ### A Beginner-Friendly Course  
